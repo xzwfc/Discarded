@@ -1,3 +1,4 @@
+Name: Zhiwei Xing
 
 I. Notes:
 1. midxing.py is the python sourse code for the solutions to the midterm exam
