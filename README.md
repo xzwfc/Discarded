@@ -1,4 +1,4 @@
-Name: Zhiwei Xing
+Name: Zhiwei Xing 
 
 I. Notes:
 1. midxing.py is the python sourse code for the solutions to the midterm exam
@@ -12,6 +12,7 @@ I. Notes:
 5. final output csv file was saved in the folder "parsed_files2"
 
 6. The final output is "final_output.csv"
+
 
 
 II. Code explanations:
