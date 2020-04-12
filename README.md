@@ -14,7 +14,6 @@ I. Notes:
 6. The final output is "final_output.csv"
 
 
-
 II. Code explanations:
 1. From line 1 to line 10: extracted 7 html files from the website, here I did not use a loop because there are only 7 pages.
 
